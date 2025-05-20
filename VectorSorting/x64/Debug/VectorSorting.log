@@ -1,0 +1,4 @@
+﻿  VectorSorting.cpp
+C:\Users\micha\Downloads\CS 300 Vector Sorting Assignment Student Files (1)\CS 300 Vector Sorting Assignment Student Files\VectorSorting.cpp(94,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\micha\Downloads\CS 300 Vector Sorting Assignment Student Files (1)\CS 300 Vector Sorting Assignment Student Files\VectorSorting.cpp(201,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  VectorSorting.vcxproj -> C:\Users\micha\Source\Repos\CS-300-VectorSorting\x64\Debug\VectorSorting.exe

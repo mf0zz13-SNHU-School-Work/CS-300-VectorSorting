@@ -18,6 +18,17 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\Downloads\CS 300 Vector Sorting Assignment Student Files (1)\CS 300 Vector Sorting Assignment Student Files\CSVparser.cpp" />
+    <ClCompile Include="..\..\..\Downloads\CS 300 Vector Sorting Assignment Student Files (1)\CS 300 Vector Sorting Assignment Student Files\VectorSorting.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\Downloads\CS 300 Vector Sorting Assignment Student Files (1)\CS 300 Vector Sorting Assignment Student Files\CSVparser.hpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="eBid_Monthly_Sales_Dec_2016.csv" />
+    <None Include="eBid_Monthly_Sales.csv" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
@@ -122,9 +133,6 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClCompile Include="VectorSorting.cpp" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
