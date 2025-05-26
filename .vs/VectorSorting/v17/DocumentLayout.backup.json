@@ -4,6 +4,9 @@
   "Documents": [
     {
       "AbsoluteMoniker": "D:0:0:{BFC7D27A-E4A6-4BB4-8D61-DD1A1A2007B0}|VectorSorting.vcxproj|C:\\Users\\micha\\Downloads\\CS 300 Vector Sorting Assignment Student Files (1)\\CS 300 Vector Sorting Assignment Student Files\\VectorSorting.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFC7D27A-E4A6-4BB4-8D61-DD1A1A2007B0}|VectorSorting.vcxproj|C:\\Users\\micha\\Downloads\\CS 300 Vector Sorting Assignment Student Files (1)\\CS 300 Vector Sorting Assignment Student Files\\CSVparser.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -13,7 +16,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -29,13 +32,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CSVparser.cpp",
+              "DocumentMoniker": "C:\\Users\\micha\\Downloads\\CS 300 Vector Sorting Assignment Student Files (1)\\CS 300 Vector Sorting Assignment Student Files\\CSVparser.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\CS 300 Vector Sorting Assignment Student Files (1)\\CS 300 Vector Sorting Assignment Student Files\\CSVparser.cpp",
+              "ToolTip": "C:\\Users\\micha\\Downloads\\CS 300 Vector Sorting Assignment Student Files (1)\\CS 300 Vector Sorting Assignment Student Files\\CSVparser.cpp",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\CS 300 Vector Sorting Assignment Student Files (1)\\CS 300 Vector Sorting Assignment Student Files\\CSVparser.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-26T02:29:27.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "VectorSorting.cpp",
               "DocumentMoniker": "C:\\Users\\micha\\Downloads\\CS 300 Vector Sorting Assignment Student Files (1)\\CS 300 Vector Sorting Assignment Student Files\\VectorSorting.cpp",
               "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\CS 300 Vector Sorting Assignment Student Files (1)\\CS 300 Vector Sorting Assignment Student Files\\VectorSorting.cpp",
-              "ToolTip": "C:\\Users\\micha\\Downloads\\CS 300 Vector Sorting Assignment Student Files (1)\\CS 300 Vector Sorting Assignment Student Files\\VectorSorting.cpp",
-              "RelativeToolTip": "..\\..\\..\\Downloads\\CS 300 Vector Sorting Assignment Student Files (1)\\CS 300 Vector Sorting Assignment Student Files\\VectorSorting.cpp",
-              "ViewState": "AgIAABABAAAAAAAAAAAkwB8BAABAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\micha\\Downloads\\CS 300 Vector Sorting Assignment Student Files (1)\\CS 300 Vector Sorting Assignment Student Files\\VectorSorting.cpp*",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\CS 300 Vector Sorting Assignment Student Files (1)\\CS 300 Vector Sorting Assignment Student Files\\VectorSorting.cpp*",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAAAKIAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-05-20T02:31:45.646Z",
               "EditorCaption": ""

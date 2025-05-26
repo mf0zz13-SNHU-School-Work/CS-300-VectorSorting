@@ -1,0 +1,9 @@
+﻿  VectorSorting.cpp
+C:\Users\micha\Downloads\CS 300 Vector Sorting Assignment Student Files (1)\CS 300 Vector Sorting Assignment Student Files\VectorSorting.cpp(94,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\micha\Downloads\CS 300 Vector Sorting Assignment Student Files (1)\CS 300 Vector Sorting Assignment Student Files\VectorSorting.cpp(318,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  2 of 502 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  VectorSorting.vcxproj -> C:\Users\micha\Source\Repos\CS-300-VectorSorting\x64\Release\VectorSorting.exe
